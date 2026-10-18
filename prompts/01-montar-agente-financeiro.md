@@ -7,7 +7,7 @@ Cole no Claude Code (ou outro agente com acesso a arquivos e terminal), dentro d
 ```
 Você vai montar meu ambiente de financeiro com IA nesta pasta.
 
-1. Instale as skills de https://github.com/SEU-USUARIO/finance-ai-toolkit
+1. Instale as skills de https://github.com/sfsamrjbr-dotcom/finance-ai-toolkit
    (plugin do Claude Code; se não for possível, copie a pasta skills/ para .claude/skills/).
 2. Me faça no máximo 8 perguntas para preencher:
    - quais empresas/CNPJs eu cuido (só razão social e regime, sem senhas),
