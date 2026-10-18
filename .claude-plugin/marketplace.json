@@ -1,0 +1,16 @@
+{
+  "name": "finance-ai-toolkit",
+  "owner": {
+    "name": "Samuel Freitas"
+  },
+  "metadata": {
+    "description": "Skills de IA para o financeiro brasileiro, no modo conferido."
+  },
+  "plugins": [
+    {
+      "name": "finance-ai-toolkit",
+      "source": "./",
+      "description": "Conciliação bancária, NFS-e no Emissor Nacional e conferência de contas a pagar."
+    }
+  ]
+}

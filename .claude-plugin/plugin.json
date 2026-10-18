@@ -1,0 +1,8 @@
+{
+  "name": "finance-ai-toolkit",
+  "description": "Skills de IA para o financeiro brasileiro: conciliação bancária, NFS-e no Emissor Nacional e conferência de contas a pagar.",
+  "version": "0.1.0",
+  "author": { "name": "Samuel Freitas" },
+  "license": "MIT",
+  "keywords": ["financeiro", "contabilidade", "conciliacao", "nfse", "brasil"]
+}

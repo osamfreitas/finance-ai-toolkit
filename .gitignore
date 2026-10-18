@@ -1,0 +1,10 @@
+# Nunca versionar dados reais
+*.ofx
+!exemplos/*.ofx
+*.pdf
+*.xls
+*.xlsx
+dados/
+empresa.md
+.DS_Store
+__pycache__/
