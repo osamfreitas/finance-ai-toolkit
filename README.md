@@ -25,7 +25,7 @@ Nasceu no dia a dia de um family office com cerca de 30 empresas. Tudo aqui foi 
 **Claude Code (plugin):**
 
 ```bash
-claude plugin marketplace add sfsamrjbr-dotcom/finance-ai-toolkit
+claude plugin marketplace add osamfreitas/finance-ai-toolkit
 ```
 
 ```bash
